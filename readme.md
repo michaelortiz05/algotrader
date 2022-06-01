@@ -8,3 +8,7 @@ At this point in the project's development, the only required module is the alpa
 - Clone repo
 - Ask for auth.json :)
 - install alpaca api (virtual environment suggested): "pip install alpaca-trade-api"
+
+## Useful links
+
+- https://alpaca.markets/learn/algorithmic-trading-python-alpaca/
