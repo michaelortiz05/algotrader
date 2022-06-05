@@ -6,7 +6,7 @@ Outback algorithmic trader is an exploratory project by Joshua Head and Michael 
 At this point in the project's development, the only required module is the alpaca trading api and its dependent libraries. Though a Jupyter notebook is currently being used, this will most likely not be the case in the future.
 
 - Clone repo
-- Ask for auth.json :)
+- Ask for .env :)
 - install alpaca api (virtual environment suggested): "pip install alpaca-trade-api"
 
 ## Useful links
